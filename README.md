@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hey! &nbsp; <img align="center" src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="40px">
 
-<!--
-**Dementor7/Dementor7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'am surendhar, a 24 year old web developer 
 
-Here are some ideas to get you started:
+  <ul>
+      <li>Software developer & devops Engineer</li>
+  </ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 
+
+  <ul>
+    <li>🧑‍💻 Javascript, Node , Python, C , c++ , golang </li>
+    <li>🔩 React, Flask , Django</li>
+    <li>🚀 CSS, Bootstrap , Tailwind</li>
+    <li>💿 MongoDB, Sql, Firebase , sqllite</li>
+    <li>👀 DSA, Low Level Programming (intel x86) </li>
+    <li>🧑‍💻 Network pentesting & web Pentesting ( OWASP-10) </li>
+    <li>☁️ AWS , GCP , Azure (VPC , subnet , route table , security group , VPN , Instances , buckets , firewall , gateways , snapshot ) </li>
+    <li>💻 K8 , Jenkins , docker , ansible , terraform , shell script </li>
+  </ul>
+
+## Contact
+
+  <ul>
+    <li>📞 Email: <a href="mailto:surendhar2339@gmail.com">surendhar2339@gmail.com</li>
+    <li>📞 Phone: <a href="tel:+91733-915-2339">7339152339</li>
+  </ul>
+
+

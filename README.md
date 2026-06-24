@@ -1,22 +1,20 @@
 # Hey! &nbsp; <img align="center" src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="40px">
 
-### I'am surendhar, a 24 year old web developer 
+### I'am surendhar, a 27 year old web developer 
 
   <ul>
-      <li> Full stack Engineer</li>
+      <li> Backend Developer</li>
   </ul>
 
 ## Skills 
 
   <ul>
     <li>🧑‍💻 Javascript, Typescript , Python, Bashscript </li>
-    <li>🔩 React (redux), ExpressJS, NextjS, NestJS, FastAPI , Flask , Django</li>
-    <li>🚀 CSS, Bootstrap , Tailwind</li>
-    <li>💿 MongoDB, Sql, Firebase, sqllite</li>
-    <li>👀 DSA, Low Level Programming (intel x86) </li>
+    <li>🔩 React (redux), ExpressJS, NextjS, NestJS</li>
+    <li>💿 AzureSQL, FabricSQL, DuckDB, sqllite</li>
     <li>🧑‍💻 Network pentesting & web Pentesting ( OWASP-10) </li>
     <li>☁️ AWS , GCP , Azure (VPC , subnet , route table , security group , VPN , Instances , storage buckets , firewall , gateways , snapshot ) </li>
-    <li>💻 K8 , Jenkins , docker , ansible , terraform , shell script </li>
+    <li>💻 Jenkins , docker , terraform </li>
   </ul>
 
 ## Contact

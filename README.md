@@ -10,7 +10,7 @@
 
   <ul>
     <li>🧑‍💻 Javascript, Typescript , Python, Bashscript </li>
-    <li>🔩 React (redux), ExpressJS, NextjS, NestJS</li>
+    <li>🔩 WebSocket , Redis , LRU cache , BullMQ</li>
     <li>💿 AzureSQL, FabricSQL, DuckDB, sqllite</li>
     <li>🧑‍💻 Network pentesting & web Pentesting ( OWASP-10) </li>
     <li>☁️ AWS , GCP , Azure (VPC , subnet , route table , security group , VPN , Instances , storage buckets , firewall , gateways , snapshot ) </li>
